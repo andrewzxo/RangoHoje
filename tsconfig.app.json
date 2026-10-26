@@ -26,5 +26,4 @@
     "erasableSyntaxOnly": false,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src"]
 }
